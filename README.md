@@ -39,4 +39,4 @@ Proper electrode placement is critical for clean signal capture.
 ---
 
 ### 📂 Reference Code
-- Main test script: [`emg_eda_test`](./emg_eda_test)  
+- Main test script: [`emg_eda_test`](./emg_eda_test.ino)  
