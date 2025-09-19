@@ -25,8 +25,11 @@ A wearable rehabilitation sleeve designed to gamify forearm exercises by combini
 ### 📍 EMG Electrode Placement
 Proper electrode placement is critical for clean signal capture.  
 
-📷 _![EMG End & Mid Placement](Mid_EndElectrodePlacement.png)_  
-📷 _![EMG Ref Placement](RefElectrodePlacement.png)_ 
+<p float="left">
+  <img src="./Mid_EndElectrodePlacement.png" alt="EMG End & Mid Placement" width="300"/>
+  <img src="./RefElectrodePlacement.png" alt="EMG Ref Placement" width="300"/>
+</p>
+
 📝 _Tip: Document electrode reference (ground), mid, and end positions for consistency across tests._  
 
 ---
