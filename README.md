@@ -17,7 +17,6 @@ A wearable rehabilitation sleeve designed to gamify forearm exercises by combini
   - **EMG**: Clear spikes detected on muscle activation.  
 - **LED indicator** lights up on EMG activation.  
 
-📷 _[Insert hardware setup photos here]_  
 🎥 [Watch demo video](EDA_EMG%20Integration.mp4)  
 
 ---
