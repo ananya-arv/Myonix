@@ -7,6 +7,20 @@ A wearable rehabilitation sleeve designed to gamify forearm exercises by combini
 
 ## Progress Updates
 
+### 10/16 — Full Sensor Integration 🚀
+
+✅ **Integrated EMG + EDA + IMU (MPU6050) Testing**
+
+- Successfully interfaced all three sensors — **Electromyography (EMG)**, **Electrodermal Activity (EDA)**, and **Inertial Measurement Unit (IMU)** — with the ESP32 Wrover-E module.  
+- During **grip exercises (wrist muscle activation)**:  
+  - **EDA**: Voltage values decrease as skin/sweat conductance increases with activity.  
+  - **EMG**: Clear spikes detected on muscle activation, synchronized with LED indicator.  
+  - **IMU**: Acceleration and gyro readings show movement consistency with EMG activity.  
+- Data collection validated across all three channels (EMG, EDA, IMU).
+
+🎥 [Watch full integration demo](./EDA_EMG%20Integration.MOV.mp4)  
+
+
 ### 9/19 — Hardware & Signal Integration 🚀
 
 ✅ **Integrated EMG + EDA Testing**
