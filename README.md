@@ -47,13 +47,23 @@ Proper electrode placement is critical for clean signal capture.
 
 ---
 
+
+### 💾 Data Collection
+
+- Latest dataset recorded from full sensor integration:  
+  📂 [`emg_eda_imu_data.csv`](./emg_eda_imu_data.csv)  
+  _(Raw readings from EMG, EDA, and IMU — preprocessing and filtering to follow.)_
+
+---
+
 ### 🔜 Next Steps
-- **IMU (MPU6050) integration** alongside EMG + EDA to validate correct signal capture.  
-- Once all three signals are stable, move on to:  
-  - Signal processing (filtering, feature extraction)  
-  - Data analysis for activity/stress detection  
+- Begin **signal preprocessing** with our initial dataset for baseline understanding of data and gauge of success:
+  - Filtering (low/high-pass, smoothing)
+  - Feature extraction for EMG bursts, EDA changes, and IMU motion events  
+- Develop **data fusion algorithms** for combined physical + cognitive state estimation  
+- Explore **machine learning classification** for stress/effort detection  
 
 ---
 
 ### 📂 Reference Code
-- Main test script: [`emg_eda_test`](./emg_eda_test.ino)  
+- Main test script: [`emg_eda_imu_test`](./emg_eda_imu_test.ino)  
