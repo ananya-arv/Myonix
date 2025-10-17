@@ -18,7 +18,7 @@ A wearable rehabilitation sleeve designed to gamify forearm exercises by combini
   - **IMU**: Acceleration and gyro readings show movement consistency with EMG activity.  
 - Data collection validated across all three channels (EMG, EDA, IMU).
 
-🎥 [Watch full integration demo](./EDA_EMG%20Integration.MOV.mp4)  
+🎥 [Watch full integration demo](./sensors_integration.mp4)  
 
 
 ### 9/19 — Hardware & Signal Integration 🚀
